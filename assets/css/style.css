@@ -152,9 +152,9 @@ h3,
 .main-section {
   float: left;
   width: 100%;
-  max-width: 650px;
+  /* max-width: 850px; */
   padding: 30px;
-  margin: 0 0 40px;
+  margin: 0 auto;
   background: #101917;
   border: 1px solid #ddd;
 }
