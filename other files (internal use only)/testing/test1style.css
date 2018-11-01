@@ -1,0 +1,24 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-image: url(./rockywall_double.png);
+	z-index: -99999
+}
+
+
+#topBig {
+	width: 1200px;
+	height: 120px;
+	background-color: white;
+}
+
+#topSmall {
+	position: relative;
+	width: 180px;
+	height: 80px;
+	background-color: teal;
+	margin-left: 100px;
+	font-size: 20px;
+	color: white;
+	padding: 20px;
+}
