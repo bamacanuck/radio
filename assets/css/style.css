@@ -20,6 +20,11 @@ body {
    text-decoration: none;
  }
 
+ ul {
+   margin-left: 2%;
+   list-style-type: disc;
+ }
+
 .container {
   width: 100%;
   max-width: 960px;
