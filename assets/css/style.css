@@ -163,6 +163,7 @@ h3,
   float: left;
   width: 100%;
   /* max-width: 850px; */
+  min-height: 800px;
   padding: 30px;
   margin: 0 auto;
   background: #101917;
